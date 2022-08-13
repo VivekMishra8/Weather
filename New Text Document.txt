@@ -1,0 +1,33 @@
+7fe7219e4413d48d08980ebb8f31481f
+
+https://api.openweathermap.org/data/2.5/weather?q=Allahabad&appid=7fe7219e4413d48d08980ebb8f31481f
+
+
+
+[
+  {
+    coord: { lon: 81.85, lat: 25.45 },
+    weather: [ [Object] ],
+    base: 'stations',
+    main: {
+      temp: 307.72,
+      feels_like: 310.16,
+      temp_min: 307.72,
+      temp_max: 307.72,
+      pressure: 999,
+      humidity: 42,
+      sea_level: 999,
+      grnd_level: 989
+    },
+    visibility: 10000,
+    wind: { speed: 6.35, deg: 236, gust: 10.36 },
+    clouds: { all: 16 },
+    dt: 1655656891,
+    sys: { country: 'IN', sunrise: 1655595731, sunset: 1655645133 },
+    timezone: 19800,
+    id: 1278994,
+    name: 'Allahabad',
+    cod: 200
+  }
+]
+
